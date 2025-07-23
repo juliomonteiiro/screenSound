@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\screenSound\\screenSound.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\csharp-projeto-musical\\screenSoundV2\\screenSound.csproj",
       "projectName": "screenSound",
-      "projectPath": "C:\\Users\\User\\Desktop\\screenSound\\screenSound.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\csharp-projeto-musical\\screenSoundV2\\screenSound.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\screenSound\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\csharp-projeto-musical\\screenSoundV2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
