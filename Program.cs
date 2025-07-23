@@ -41,7 +41,7 @@ void ExibirOpcoesDoMenu()
             break;
         case 3: AvaliarUmaBanda();
             break;
-        case 4: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+        case 4: MediaDeAvaliacoes();
             break;
         case -1: Console.WriteLine("Tchau Tchau :)");
             break;
