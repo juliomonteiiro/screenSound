@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\screenSound\bin\Debug\net9.0\screenSound.exe
+C:\Users\User\Desktop\screenSound\bin\Debug\net9.0\screenSound.deps.json
+C:\Users\User\Desktop\screenSound\bin\Debug\net9.0\screenSound.runtimeconfig.json
+C:\Users\User\Desktop\screenSound\bin\Debug\net9.0\screenSound.dll
+C:\Users\User\Desktop\screenSound\bin\Debug\net9.0\screenSound.pdb
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.AssemblyInfo.cs
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.dll
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\refint\screenSound.dll
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.pdb
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\screenSound.genruntimeconfig.cache
+C:\Users\User\Desktop\screenSound\obj\Debug\net9.0\ref\screenSound.dll
