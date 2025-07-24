@@ -1,14 +1,15 @@
-﻿Musica musica1 = new Musica();
-musica1.Nome = "This I Love";
-musica1.Artista = "Guns N' Roses";
-musica1.Duracao = 535;
-musica1.Disponivel = true; 
+﻿Album album = new Album();
+album.Nome = "Californication";
+
+Musica musica1 = new Musica();
+musica1.Nome = "Scar Tissue";
+musica1.Duracao = 337;
 
 Musica musica2 = new Musica();
-musica2.Nome = "Californication";
-musica2.Artista= "Red Hot Chilli Peppers";
-musica2.Duracao = 458;
-musica2.Disponivel = false; 
+musica2.Nome = "Otherside";
+musica2.Duracao = 416;
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+album.AdicionarMusica(musica1);
+album.AdicionarMusica(musica2);
+
+album.ExibirMusicasDoAlbum();
