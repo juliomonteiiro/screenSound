@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\bin\Debug\net9.0\screenSoundV3.exe
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\bin\Debug\net9.0\screenSoundV3.deps.json
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\bin\Debug\net9.0\screenSoundV3.runtimeconfig.json
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\bin\Debug\net9.0\screenSoundV3.dll
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\bin\Debug\net9.0\screenSoundV3.pdb
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.AssemblyInfo.cs
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.sourcelink.json
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.dll
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\refint\screenSoundV3.dll
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.pdb
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\screenSoundV3.genruntimeconfig.cache
+C:\Users\User\Desktop\csharp-projeto-musical\screenSoundV3\obj\Debug\net9.0\ref\screenSoundV3.dll
